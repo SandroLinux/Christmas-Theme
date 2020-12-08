@@ -1,0 +1,31 @@
+{
+ "name": "Sandro Linux Christmas Theme",
+ "description": "A theme which gives Firefox a Christmas Theme",
+ "version": "1.2",
+ "manifest_version": 2,
+ "icons": {"800": "Christmas_Theme.png"},
+ "theme": {
+  "images": {
+    "theme_frame": "pattern-1084046_1920.jpg"
+  },
+  "colors": {
+    "frame": "white",
+    "tab_background_text": "black",
+    "tab_loading": "red",
+    "toolbar_field_highlight": "red",
+    "toolbar_field": "ff9100",
+    "toolbar_field_text": "#ffffff",
+    "toolbar_text": "black",
+    "tab_line": "red",
+    "popup_highlight": "lime",
+    "ntp_background": "red",
+    "popup_border": "red",
+    "popup": "red",
+    "popup_highlight_text": "black",
+    "popup_text": "black",
+    "sidebar_highlight_text": "black",
+    "sidebar_highlight": "lime",
+    "sidebar_text": "black"
+  }
+}
+}
